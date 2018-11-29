@@ -1,7 +1,4 @@
-# Early Deep Learning projects
-This repo contains few of my early implemtation of neural networks and other deep learning architectures.
-
-Project 1:
+# American Sign Language Interpreter
 American Sign Language is a way of expressing characters through hand gestures
 (more info : https://en.wikipedia.org/wiki/American_Sign_Language).
 
