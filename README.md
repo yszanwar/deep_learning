@@ -1,4 +1,4 @@
-# American Sign Language Interpreter
+# American Sign Language Interpreter using Deep Learning and Python
 American Sign Language is a way of expressing characters through hand gestures
 (more info : https://en.wikipedia.org/wiki/American_Sign_Language).
 
